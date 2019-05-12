@@ -1,0 +1,28 @@
+{
+  "name": "bloom-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alejandroharb/bloom-landing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alejandroharb/bloom-landing/issues"
+  },
+  "homepage": "https://github.com/alejandroharb/bloom-landing#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0",
+    "path": "^0.12.7"
+},
+"engines": {
+    "node": "8.11.2"
+  }
+}
