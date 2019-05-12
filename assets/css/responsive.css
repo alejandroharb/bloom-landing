@@ -39,7 +39,7 @@
 		padding: 100px 0px;
 	}
 
-    
+
 }
 
 
@@ -157,12 +157,12 @@
         margin: 27px 0px 20px;
     }
     .header-area {
-		background: #fe601a;
+		background: #FAFAFA;
 		z-index: 9;
 		box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
 	}
 	.slicknav_nav a {
-		color: #fff !important;
+		color: #000 !important;
 	}
 	.slicknav_nav a:hover {
 		background: #444;
@@ -309,7 +309,7 @@
 		font-size: 26px;
 	}
 
-    
+
 }
 
 
