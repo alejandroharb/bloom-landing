@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/alejandroharb/bloom-landing#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "nodemon": "^1.19.0",
     "path": "^0.12.7"
 },
